@@ -1,0 +1,5 @@
+model,task,mode,nshot,accuracy_raw,accuracy_raw_std,accuracy_raw_ci,parse_errors
+gpt-4-0613,proofwriter,baseline,8,0.3356,0.060671025484438076,0.025777072481451422,0
+gpt-4-0613,proofwriter,scratchpad,8,0.299,0.0624953331590981,0.02655215928413356,0
+gpt-4-0613,proofwriter,cot,8,0.4838,0.06356365138802032,0.02700605166851805,0
+gpt-4-0613,proofwriter,neurosymbolic,8,1.0,0.0,0.0,0

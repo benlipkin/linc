@@ -1,0 +1,5 @@
+model,task,mode,nshot,accuracy_raw,accuracy_raw_std,accuracy_raw_ci,parse_errors
+starcoderplus,proofwriter,baseline,8,0.38323333333333337,0.06029548536628225,0.025617518151058928,0
+starcoderplus,proofwriter,scratchpad,8,0.34951666666666664,0.05850488820982778,0.02485675381061034,0
+starcoderplus,proofwriter,cot,8,0.36900000000000005,0.06128349424328436,0.026037289800399734,0
+starcoderplus,proofwriter,neurosymbolic,8,0.71975,0.05909684847773188,0.02510825776344558,0

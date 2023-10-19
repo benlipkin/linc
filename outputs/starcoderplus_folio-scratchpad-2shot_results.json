@@ -1,0 +1,8 @@
+{
+  "folio-scratchpad-2shot": {
+    "accuracy (pass@1 majority)": 0.3516483516483517
+  },
+  "config": {
+    "model": "bigcode/starcoderplus"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "folio-cot-2shot": {
+    "accuracy (pass@1 majority)": 0.4065934065934066
+  },
+  "config": {
+    "model": "bigcode/starcoderplus"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "config": {
+    "model": "gpt-3.5-turbo-16k-0613"
+  },
+  "proofwriter-baseline-8shot": {
+    "accuracy (pass@1 majority)": 0.3638888888888889
+  }
+}

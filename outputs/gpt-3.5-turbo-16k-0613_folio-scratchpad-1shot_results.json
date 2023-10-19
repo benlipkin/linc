@@ -1,0 +1,8 @@
+{
+  "folio-scratchpad-1shot": {
+    "accuracy (pass@1 majority)": 0.4340659340659341
+  },
+  "config": {
+    "model": "gpt-3.5-turbo-16k-0613"
+  }
+}

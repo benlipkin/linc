@@ -1,0 +1,8 @@
+{
+  "config": {
+    "model": "gpt-4-0613"
+  },
+  "proofwriter-cot-8shot": {
+    "accuracy (pass@1 majority)": 0.7222222222222222
+  }
+}

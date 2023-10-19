@@ -1,0 +1,8 @@
+{
+  "config": {
+    "model": "gpt-4-0613"
+  },
+  "folio-cot-8shot": {
+    "accuracy (pass@1 majority)": 0.7527472527472527
+  }
+}

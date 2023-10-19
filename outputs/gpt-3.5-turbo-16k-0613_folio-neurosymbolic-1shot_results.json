@@ -1,0 +1,8 @@
+{
+  "folio-neurosymbolic-1shot": {
+    "accuracy (pass@1 majority)": 0.5494505494505495
+  },
+  "config": {
+    "model": "gpt-3.5-turbo-16k-0613"
+  }
+}

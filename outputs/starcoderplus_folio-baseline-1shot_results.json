@@ -1,0 +1,8 @@
+{
+  "folio-baseline-1shot": {
+    "accuracy (pass@1 majority)": 0.3241758241758242
+  },
+  "config": {
+    "model": "bigcode/starcoderplus"
+  }
+}

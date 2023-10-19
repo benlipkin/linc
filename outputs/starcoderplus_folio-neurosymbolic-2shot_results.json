@@ -1,0 +1,8 @@
+{
+  "folio-neurosymbolic-2shot": {
+    "accuracy (pass@1 majority)": 0.45054945054945056
+  },
+  "config": {
+    "model": "bigcode/starcoderplus"
+  }
+}

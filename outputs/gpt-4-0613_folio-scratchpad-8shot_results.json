@@ -1,0 +1,8 @@
+{
+  "config": {
+    "model": "gpt-4-0613"
+  },
+  "folio-scratchpad-8shot": {
+    "accuracy (pass@1 majority)": 0.6868131868131868
+  }
+}

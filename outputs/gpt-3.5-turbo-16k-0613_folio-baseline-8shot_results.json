@@ -1,0 +1,8 @@
+{
+  "folio-baseline-8shot": {
+    "accuracy (pass@1 majority)": 0.4835164835164835
+  },
+  "config": {
+    "model": "gpt-3.5-turbo-16k-0613"
+  }
+}

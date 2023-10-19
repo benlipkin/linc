@@ -1,0 +1,8 @@
+{
+  "config": {
+    "model": "bigcode/starcoderplus"
+  },
+  "proofwriter-scratchpad-8shot": {
+    "accuracy (pass@1 majority)": 0.38055555555555554
+  }
+}
