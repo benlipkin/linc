@@ -1,10 +1,6 @@
 # LINC: Logical Inference via Neurosymbolic Computation
 
-Repository for the paper 
-
-`LINC: A neuro-symbolic approach for logical reasoning by combining language models with first-order logic provers` 
-
-`Theo X. Olausson*, Alex Gu*, Ben Lipkin*, Cedegao E. Zhang*, Armando Solar-Lezama, Joshua B. Tenenbaum, & Roger P. Levy`
+Repository for the paper [LINC: A neuro-symbolic approach for logical reasoning by combining language models with first-order logic provers](https://arxiv.org/abs/2310.15164) by `Theo X. Olausson*, Alex Gu*, Ben Lipkin*, Cedegao E. Zhang*, Armando Solar-Lezama, Joshua B. Tenenbaum, & Roger P. Levy`, to be presented at EMNLP 2023.
 
 Code is provided to reproduce all experiments and figures.
 
