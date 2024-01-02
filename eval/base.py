@@ -86,7 +86,7 @@ class OWAFOLTask(Task):
     is to generate True/False/Uncertain answers to First Order Logic questions.
     """
 
-    TRAIN_DATASET_PATH = "metaeval/folio"
+    TRAIN_DATASET_PATH = "minimario/FOLIO"
     ERROR_TOKEN = "Error"
     MAX_SHOTS = 16
 
